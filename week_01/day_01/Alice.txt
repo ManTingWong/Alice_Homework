@@ -1,2 +1,2 @@
 my name is Alice
-I love data and R
+I love data and R and Python
